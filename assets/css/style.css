@@ -1,0 +1,123 @@
+/* Header CSS */
+.nav {
+    float: right;
+    padding-top: 50px;
+}
+#nav {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+ 
+.sean {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px;
+}
+
+/* About Page CSS */  
+ #about {
+    background-color: #ffffff;
+    font-family: 'Arial';
+    color: #777777;
+    margin: 0 auto 0 auto;
+    padding: 20px;
+    border: solid 2px;
+    border-color: #dddddd;
+    line-height: 1.6;
+} 
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia';
+    background: #ffffff;
+
+}
+img {
+    float: left;
+    width: 250px;
+    height: 225px;
+    padding: 10px;
+
+}
+.box {
+    background-image: url(../images/wormz.png);
+    padding: 135px;
+    padding-bottom: 65px;
+    margin-top: 70px;
+   
+}
+.bg-4{
+    padding-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4aaaa5;
+    font: bold;
+    
+}
+.bg-5{
+    padding-top: 35px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    
+}
+/* Had an issue with positioning the text banners correctly over the images and keeping them responsive,
+*/
+
+ #banner {
+    position: relative;
+    
+}   
+ .post-content {
+     text-align: center
+ }
+ 
+#bannerText {
+    top:75px;
+    left:10px;
+    position: absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center; 
+    margin-top: 50px;
+    padding-left: 65px;
+    padding-right: 70px;
+}
+#bannerTex {
+    top:75px;
+    left:260px;
+    position: absolute;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center; 
+    padding-left: 65px;
+    padding-right: 60px;
+    margin-top: 50px;
+}
+
+
+
+/* .post-content {
+    background: none repeat scroll 0 0 #FFffff;
+    opacity: 0.5;
+    margin: 0 auto;
+    margin-top: -54px;
+    text-align:center
+    position: relative;
+    width:40%;
+
+    
+}
+
+#banner {
+    margin:0 auto;
+    text-align:center;
+}
+
+#bannerText {
+    text-align:center;
+} */
+
+
